@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/deepak/7-laws",
+      "destination": "https://deepak-7-laws-7u8srqxro-johnsons-projects-d7d8437a.vercel.app/"
+    },
+    {
+      "source": "/deepak/7-laws/:path*",
+      "destination": "https://deepak-7-laws-7u8srqxro-johnsons-projects-d7d8437a.vercel.app/:path*"
+    }
+  ]
+}
