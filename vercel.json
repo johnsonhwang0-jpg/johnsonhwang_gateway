@@ -1,5 +1,7 @@
 {
   "version": 2,
+  "cleanUrls": true,
+  "trailingSlash": true,
   "rewrites": [
     {
       "source": "/7-laws-lite/:path*",
