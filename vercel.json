@@ -6,7 +6,7 @@
     }，
     {
       "source": "/report-v2/:path*",
-      "destination": "https://deepak-report-v2.vercel.app/report-v2/:path*"
+      "destination": "https://deepak-report-v2.vercel.app/:path*"
     }
   ]
 }
