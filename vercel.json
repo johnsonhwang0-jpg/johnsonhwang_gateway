@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "routes": [
+  "rewrites": [
     {
-      "src": "/7-laws-lite/(.*)",
-      "dest": "https://deepak-7-laws-7u8srqxro-johnsons-projects-d7d8437a.vercel.app/$1"
+      "source": "/test-proxy",
+      "destination": "https://www.baidu.com"
     },
     {
-      "src": "/7-laws-lite",
-      "dest": "https://deepak-7-laws-7u8srqxro-johnsons-projects-d7d8437a.vercel.app/index.html"
+      "source": "/7-laws-lite/:path*",
+      "destination": "https://deepak-7-laws-7u8srqxro-johnsons-projects-d7d8437a.vercel.app/:path*"
     }
   ]
 }
