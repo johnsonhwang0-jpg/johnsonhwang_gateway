@@ -35,6 +35,14 @@
     {
       "source": "/aigc-component-3D-2/:path*",
       "destination": "https://aigc-component-3d-2.vercel.app/aigc-component-3D-2/:path*"
+    },
+    {
+      "source": "/interactive-table/",
+      "destination": "https://oum-interactive-table.vercel.app/interactive-table/index.html"
+    },
+    {
+      "source": "/interactive-table/:path*",
+      "destination": "https://oum-interactive-table.vercel.app/interactive-table/:path*"
     }
   ]
 }
