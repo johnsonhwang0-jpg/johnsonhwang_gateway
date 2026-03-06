@@ -23,6 +23,14 @@
     {
       "source": "/aigc-component-3D-1/:path*",
       "destination": "https://aigc-component-3d-1.vercel.app/aigc-component-3D-1/:path*"
+    },
+    {
+      "source": "/aigc-component-3D-2",
+      "destination": "https://your-new-project-2.vercel.app/aigc-component-3D-2"
+    },
+    {
+      "source": "/aigc-component-3D-2/:path*",
+      "destination": "https://your-new-project-2.vercel.app/aigc-component-3D-2/:path*"
     }
   ]
 }
