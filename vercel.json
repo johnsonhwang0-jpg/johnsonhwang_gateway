@@ -47,6 +47,18 @@
 {
   "source": "/interactive-table/:path*",
   "destination": "https://oum-interactive-table.vercel.app/interactive-table/:path*"
-}
+},
+    {
+      "source": "/AdaptiveLearningPath",
+      "destination": "https://oum-adaptive-learning-path.vercel.app/AdaptiveLearningPath/index.html"
+    },
+    {
+      "source": "/AdaptiveLearningPath/",
+      "destination": "https://oum-adaptive-learning-path.vercel.app/AdaptiveLearningPath/index.html"
+    },
+    {
+      "source": "/AdaptiveLearningPath/:path*",
+      "destination": "https://oum-adaptive-learning-path.vercel.app/AdaptiveLearningPath/:path*"
+    }
   ]
 }
