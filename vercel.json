@@ -59,6 +59,18 @@
     {
       "source": "/AdaptiveLearningPath/:path*",
       "destination": "https://oum-adaptive-learning-path.vercel.app/AdaptiveLearningPath/:path*"
+    },
+    {
+      "source": "/AI-StudyPilot",
+      "destination": "https://oum-ai-study-polite.vercel.app/AI-StudyPilot/index.html"
+    },
+    {
+      "source": "/AI-StudyPilot/",
+      "destination": "https://oum-ai-study-polite.vercel.app/AI-StudyPilot/index.html"
+    },
+    {
+      "source": "/AI-StudyPilot/:path*",
+      "destination": "https://oum-ai-study-polite.vercel.app/AI-StudyPilot/:path*"
     }
   ]
 }
