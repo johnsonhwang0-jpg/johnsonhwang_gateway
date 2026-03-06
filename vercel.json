@@ -13,6 +13,10 @@
       "destination": "https://deepak-report-v2.vercel.app/report-v2/:path*"
     },
     {
+      "source": "/aigc-component-3D-1/",
+      "destination": "https://aigc-component-3d-1.vercel.app/aigc-component-3D-1/index.html"
+    },
+    {
       "source": "/aigc-component-3D-1",
       "destination": "https://aigc-component-3d-1.vercel.app/aigc-component-3D-1/index.html"
     },
