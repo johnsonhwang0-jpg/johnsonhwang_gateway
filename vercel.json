@@ -71,6 +71,14 @@
     {
       "source": "/AI-StudyPilot/:path*",
       "destination": "https://oum-ai-study-polite.vercel.app/AI-StudyPilot/:path*"
+    },
+    {
+      "source": "/interactive_class_diagram",
+      "destination": "https://oum-aig-ccomponent-class-diagram.vercel.app/index.html"
+    },
+    {
+      "source": "/interactive_class_diagram/:path*",
+      "destination": "https://oum-aig-ccomponent-class-diagram.vercel.app/:path*"
     }
   ]
 }
