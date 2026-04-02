@@ -83,6 +83,22 @@
     {
       "source": "/interactive_class_diagram/:path*",
       "destination": "https://oum-aig-ccomponent-class-diagram.vercel.app/:path*"
+    },
+    {
+      "source": "/interactive_class_diagram/:path*",
+      "destination": "https://oum-aig-ccomponent-class-diagram.vercel.app/:path*"
+    },
+    {
+      "source": "/storybook_classroom",
+      "destination": "https://oum-aig-ccomponent-storybook-teyl.vercel.app/index.html"
+    },
+    {
+      "source": "/storybook_classroom/",
+      "destination": "https://oum-aig-ccomponent-storybook-teyl.vercel.app/index.html"
+    },
+    {
+      "source": "/storybook_classroom/:path*",
+      "destination": "https://oum-aig-ccomponent-storybook-teyl.vercel.app/:path*"
     }
   ]
 }
