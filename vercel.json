@@ -99,6 +99,18 @@
     {
       "source": "/storybook_classroom/:path*",
       "destination": "https://oum-aig-ccomponent-storybook-teyl.vercel.app/:path*"
-    }
+    },
+    {
+  "source": "/fire_extinguisher",
+  "destination": "https://oum-aig-ccomponent-fire-extinguishe.vercel.app/index.html"
+},
+{
+  "source": "/fire_extinguisher/",
+  "destination": "https://oum-aig-ccomponent-fire-extinguishe.vercel.app/index.html"
+},
+{
+  "source": "/fire_extinguisher/:path*",
+  "destination": "https://oum-aig-ccomponent-fire-extinguishe.vercel.app/:path*"
+}
   ]
 }
