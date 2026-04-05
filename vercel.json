@@ -111,6 +111,18 @@
 {
   "source": "/fire_extinguisher/:path*",
   "destination": "https://oum-aig-ccomponent-fire-extinguishe.vercel.app/:path*"
+},
+    {
+  "source": "/economy_simulation",
+  "destination": "https://oum-aig-ccomponent-economy-simulati.vercel.app/index.html"
+},
+{
+  "source": "/economy_simulation/",
+  "destination": "https://oum-aig-ccomponent-economy-simulati.vercel.app/index.html"
+},
+{
+  "source": "/economy_simulation/:path*",
+  "destination": "https://oum-aig-ccomponent-economy-simulati.vercel.app/:path*"
 }
   ]
 }
