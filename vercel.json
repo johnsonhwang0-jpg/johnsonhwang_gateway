@@ -123,6 +123,18 @@
 {
   "source": "/economy_simulation_lab/:path*",
   "destination": "https://oum-aig-ccomponent-economy-simulati.vercel.app/:path*"
+},
+    {
+  "source": "/oum_homepage",
+  "destination": "https://oum-homepage.vercel.app/index.html"
+},
+{
+  "source": "/oum_homepage/",
+  "destination": "https://oum-homepage.vercel.app/index.html"
+},
+{
+  "source": "/oum_homepage/:path*",
+  "destination": "https://oum-homepage.vercel.app/:path*"
 }
   ]
 }
