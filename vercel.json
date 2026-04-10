@@ -135,6 +135,18 @@
 {
   "source": "/oum_homepage/:path*",
   "destination": "https://oum-homepage.vercel.app/:path*"
+},
+    {
+  "source": "/deepak_china_app",
+  "destination": "https://deepak-china-app.vercel.app/index.html"
+},
+{
+  "source": "/deepak_china_app/",
+  "destination": "https://deepak-china-app.vercel.app/index.html"
+},
+{
+  "source": "/deepak_china_app/:path*",
+  "destination": "https://deepak-china-app.vercel.app/:path*"
 }
   ]
 }
