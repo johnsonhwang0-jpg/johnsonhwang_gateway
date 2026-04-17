@@ -147,6 +147,18 @@
 {
   "source": "/deepak_china_app/:path*",
   "destination": "https://deepak-china-app.vercel.app/:path*"
+},
+    {
+  "source": "/deepak_china_admin",
+  "destination": "https://deepak-china-admin.vercel.app/index.html"
+},
+{
+  "source": "/deepak_china_admin/",
+  "destination": "https://deepak-china-admin.vercel.app/index.html"
+},
+{
+  "source": "/deepak_china_admin/:path*",
+  "destination": "https://deepak-china-admin.vercel.app/:path*"
 }
   ]
 }
